@@ -1,3 +1,3 @@
-- Chop avocados
-- Chop onions
-- Mix well
+- chop avocados
+- chop onions
+- and mix well
